@@ -1,3 +1,2 @@
-stream-start
 document-start
 key 42424242
